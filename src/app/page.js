@@ -39,6 +39,8 @@ export default function Home() {
       <div className={styles.container}>
         <div className={styles.hero}>
           <h1>Hola desde FL0.</h1>
+          <h2>
+            Prueba desde testeo.</h2>
           <p>Felicitaciones, has deployado un aplicacion React + Next.js con FL0!</p>
         </div>
         <div className={styles.logo}>
